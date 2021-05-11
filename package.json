@@ -3,7 +3,7 @@
     "@google-cloud/storage": "^4.3.0",
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "papaparse": "^5.1.1"
   }
 }
